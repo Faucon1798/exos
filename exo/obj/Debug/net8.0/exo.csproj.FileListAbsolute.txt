@@ -1,0 +1,14 @@
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\bin\Debug\net8.0\exo.exe
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\bin\Debug\net8.0\exo.deps.json
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\bin\Debug\net8.0\exo.runtimeconfig.json
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\bin\Debug\net8.0\exo.dll
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\bin\Debug\net8.0\exo.pdb
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.AssemblyInfoInputs.cache
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.AssemblyInfo.cs
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.csproj.CoreCompileInputs.cache
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.dll
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\refint\exo.dll
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.pdb
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\exo.genruntimeconfig.cache
+C:\Users\beric\OneDrive\Desktop\exercises\exercises\exo\exo\obj\Debug\net8.0\ref\exo.dll
